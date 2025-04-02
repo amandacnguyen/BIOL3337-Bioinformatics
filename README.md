@@ -11,13 +11,14 @@ The collection demonstrates proficiency in bioinformatics methods and computatio
 - Phylogenetic analysis and evolutionary relationship inference
 
 ## Repository Status
-This portfolio is currently a work in progress (as of April 2025). I am actively refining the code organization, improving documentation, and enhancing visualizations. While the core functionality and analyses from course assignments are complete, I am developing these materials into more comprehensive project demonstrations. Check back regularly for updates!
+This repository contains ongoing work for BIOL 3337: Bioinformatics (Spring 2025) at The University of Texas at Dallas. As I am currently enrolled in this course, the materials represent incomplete assignments and projects that are being actively developed throughout the semester. This repository serves as both a workspace for current coursework and will eventually become a complete portfolio of my bioinformatics skills.
 
 ### Current Development Focus:
-- Refactoring code into more modular, object-oriented structure
-- Enhancing documentation with detailed explanations and usage examples
-- Creating additional visualizations for clearer result interpretation
-- Consolidating related assignments into cohesive project workflows
+- Completing ongoing course assignments and projects
+- Implementing bioinformatics algorithms as introduced in the course curriculum
+- Building proficiency with BioPython and other bioinformatics tools
+- Organizing code and documentation for both academic submission and portfolio purposes
+- Creating visualizations to effectively communicate biological data analysis
 
 ## Technical Skills Demonstrated
 
